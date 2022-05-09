@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.2c5ae9b1.js",
+    "static/media/pern.png": "/static/media/pern.d4df054d9a1fb485d0f6.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.2c5ae9b1.js.map": "/static/js/main.2c5ae9b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2c5ae9b1.js"
+  ]
+}
